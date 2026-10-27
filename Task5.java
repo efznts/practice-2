@@ -34,7 +34,7 @@ public class Task5 {
     }
 
     static void printAuthor() {
-        System.out.println("Разработчик: ______");
+        System.out.println("Разработчик: Беспамятных Евгений");
     }
 
     static void calculate() {
